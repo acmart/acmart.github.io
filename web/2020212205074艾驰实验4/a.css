@@ -1,0 +1,159 @@
+.img1{
+	opacity: 0.0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.a1{
+	position: absolute;
+	box-sizing: content-box;
+  	width: 304px;
+  	height:440px;
+  	border: 10px solid rgb(244, 244, 244);
+	padding: 12px;
+}
+h1{
+	font-size: 18px;
+	letter-spacing: 55px;
+	text-indent: 40px;
+	line-height: 2px;
+	color: #f3481d;
+}
+h2{
+	font-size: 13px;
+	word-spacing: 22px;
+	text-indent: 28px;
+	position: absolute;
+	top: 21px;
+}
+.r1{
+	width: 292px;
+	height: 25px;
+	position: absolute;
+	left: 6px;
+	top: 65px;
+	background: #ffe5de;
+}
+h3{
+	font-size: 10px;
+	letter-spacing: 0px;
+	text-indent: 83px;
+	line-height: 5px;
+	color: #f3481d;
+}
+h4{
+	font-size: 13px;
+	word-spacing: 24px;
+	text-indent: 22px;
+	line-height: 120px;
+}
+h5{
+	font-size: 12px;
+	word-spacing: 22px;
+	text-indent: 12px;
+	position: absolute;
+	top: 120px;
+	color: #f3481d;
+}
+h6{
+	font-size: 12px;
+	word-spacing: 40px;
+	text-indent: 12px;
+	position: absolute;
+	top: 138px;
+}
+.img2{
+	opacity: 1.0;
+	position: absolute;
+	left: 8px;
+	top: 200px;
+}
+.line1{
+	width: 74px;
+    border-top: solid #f3481d 2px;
+    position: absolute;
+    left: 6px;
+    top: 198px;
+}
+.line2{
+	height: 77px;
+    border-left: solid #f3481d 2px;
+    position: absolute;
+    left: 78px;
+    top: 198px;
+}
+.line3{
+	width: 218px;
+    border-top: solid #f3481d 2px;
+    position: absolute;
+    left: 78px;
+    top: 275px;
+}
+.line4{
+	height: 158px;
+    border-left: solid #f3481d 2px;
+    position: absolute;
+    left: 296px;
+    top: 275px;
+}
+.line5{
+	width: 292px;
+    border-top: solid #f3481d 2px;
+    position: absolute;
+    left: 6px;
+    top: 430px;
+}
+.line6{
+	height: 235px;
+    border-left: solid #f3481d 2px;
+    position: absolute;
+    left: 6px;
+    top: 198px;
+}
+.b1{
+	font-size: 13px;
+	word-spacing: 17px;
+	text-indent: 25px;
+	line-height: 203px;
+}
+.b1 span{
+	color: #f3481d;
+}
+input[type=text1]{
+	width:183px;
+	height: 20px;
+	position: absolute;
+	left: 22px;
+	top: 310px;
+}
+input[type=text2]{
+	width:183px;
+	height: 20px;
+	position: absolute;
+	left: 22px;
+	top: 335px;
+}
+.b2{
+	font-size: 13px;
+	text-indent: 15px;
+	position: absolute;
+	top: 366px;
+}
+.b2 span{
+	color: #f3481d;
+}
+.r2{
+	width: 68px;
+	height: 26px;
+	position: absolute;
+	left: 22px;
+	top: 390px;
+	background: #fd471f;
+}
+h7{
+	font-size: 13px;
+	line-height: 25px;
+	position: absolute;
+	left: 8px;
+	color: #ffffff;
+}
